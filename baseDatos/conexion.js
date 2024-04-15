@@ -7,7 +7,7 @@ const conexionDB = async() => {
 
     try{
 
-        await mongoose.connect('mongodb+srv://CABUSTOSC09:Ecoutores09@haltfone.to2o8np.mongodb.net/halftone?retryWrites=true&w=majority&appName=haltfone');
+        await mongoose.connect('mongodb+srv://CABUSTOSC09:Ecoutores09@haltfone.to2o8np.mongodb.net/medicos?retryWrites=true&w=majority&appName=haltfone');
 
         
 
